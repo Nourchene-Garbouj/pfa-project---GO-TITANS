@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\yassine ben yedder\\desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\users_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\users_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\users_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\users_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\tarifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\tarifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\tarifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\tarifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\winformsapp2\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464EB03D-2BE1-4687-8273-19B78BBB7CF8}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tarifs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\tarifs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\tarifs.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\source\\repos\\go titans\\WinFormsApp2\\tarifs.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\go titans\\WinFormsApp2\\tarifs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:31:55.81Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\login.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\source\\repos\\go titans\\WinFormsApp2\\login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\go titans\\WinFormsApp2\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:24:56.524Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\login.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\login.cs",
+              "RelativeToolTip": "WinFormsApp2\\login.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:22:03.539Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users_table.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\users_table.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\users_table.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\users_table.cs",
+              "RelativeToolTip": "WinFormsApp2\\users_table.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAABEBAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:03:49.605Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cours.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\cours.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\cours.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\source\\repos\\go titans\\WinFormsApp2\\cours.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\go titans\\WinFormsApp2\\cours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:16:30.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "blog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\blog.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\blog.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\source\\repos\\go titans\\WinFormsApp2\\blog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\go titans\\WinFormsApp2\\blog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:43:28.508Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "blog.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\blog.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\blog.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\blog.cs",
+              "RelativeToolTip": "WinFormsApp2\\blog.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAKAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:49:15.355Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "users_table.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\users_table.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\users_table.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\source\\repos\\go titans\\WinFormsApp2\\users_table.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\go titans\\WinFormsApp2\\users_table.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:54:22.01Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cours.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\cours.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\cours.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\cours.cs",
+              "RelativeToolTip": "WinFormsApp2\\cours.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAAACUBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:11:55.869Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tarifs.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\tarifs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\tarifs.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\tarifs.cs",
+              "RelativeToolTip": "WinFormsApp2\\tarifs.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAowMMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:43:37.896Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\search.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\search.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\search.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:15:41.564Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\search.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\search.cs",
+              "ToolTip": "C:\\Users\\Yassine ben yedder\\Desktop\\yassine ben yedder et nourchene garbouj dotnet pfa\\project \u002B app setup\\WinFormsApp2\\search.cs",
+              "RelativeToolTip": "WinFormsApp2\\search.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAF8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:23:10.013Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

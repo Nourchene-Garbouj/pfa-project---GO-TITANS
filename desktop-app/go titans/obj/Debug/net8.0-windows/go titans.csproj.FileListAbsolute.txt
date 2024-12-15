@@ -1,0 +1,16 @@
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\bin\Debug\net8.0-windows\go titans.exe
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\bin\Debug\net8.0-windows\go titans.deps.json
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\bin\Debug\net8.0-windows\go titans.runtimeconfig.json
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\bin\Debug\net8.0-windows\go titans.dll
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\bin\Debug\net8.0-windows\go titans.pdb
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go_titans.Form1.resources
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.csproj.GenerateResource.cache
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.AssemblyInfoInputs.cache
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.AssemblyInfo.cs
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.csproj.CoreCompileInputs.cache
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.dll
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\refint\go titans.dll
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.pdb
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\go titans.genruntimeconfig.cache
+C:\Users\Yassine ben yedder\source\repos\go titans\go titans\obj\Debug\net8.0-windows\ref\go titans.dll

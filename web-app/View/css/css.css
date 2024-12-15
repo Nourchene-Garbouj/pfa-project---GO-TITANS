@@ -1,0 +1,149 @@
+.logo{
+    border-radius: 5px;
+    margin-left: 1cm;
+  }
+  .bgacceuil{
+    width: 100%;
+  }
+  #signin {
+    position: static;
+    overflow-y: hidden;
+  }
+  #register {
+    border-radius: 0.2cm;
+  }
+  #rightside{
+    height: 100%;
+    background-color:rgb(244, 218, 183);
+  }
+  .start{
+    background-color: black;
+    margin-top: 7cm;
+    margin-right: 5cm;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+      
+  }
+  .btn2{
+    position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-bottom: 2cm;
+      border-radius: 3;
+  }
+  .joinus{
+    margin-left: 2.5cm;
+    color: darkgoldenrod;
+    font:message-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+  }
+  .sig{
+    background-color: black;
+    border-color:darkgoldenrod;
+    color: rgb(239, 236, 230);
+    width: 150px; 
+    height: 50px;
+    font-size: large;
+    border-radius: 20px;
+  }
+  .create{
+    background-color: black;
+    border-color:darkgoldenrod;
+    color: rgb(239, 236, 230);
+    width: 150px; 
+    height: 50px;
+    font-size: large;
+    border-radius: 20px;
+  }
+  .same{
+    color:aliceblue; /* Changer la couleur du lien */
+    text-decoration: none;
+  
+  }
+  .createacc{
+    overflow: hidden;
+  }
+  .reges{
+    background-color:rgb(249, 238, 221);
+    border-color:rgb(82, 82, 82);
+    font-display:inherit;
+    color:black;
+    width: 300px; 
+    height: 45px;
+    font-size: large;
+    border-radius: 8px;
+    margin-bottom: 0;
+    margin-top: 0; 
+    text-align:center; /* Alignement horizontal à droite */
+    vertical-align: middle; 
+  }
+  #rrightside{
+    height: 100%;
+    background-color:rgb(158, 180, 244);
+  }
+  .firstpage{
+    overflow: hidden;
+    align-items: center;
+  
+  }
+  
+  #exampleInputEmail1{
+    border-color: black;
+    border-radius: 20px;
+  
+  }
+  #exampleInputPassword1{
+    border-color: black;
+    border-radius: 20px;
+  }
+  #signin{
+    margin-top: -9cm;
+  }
+  #bts{
+    border-radius: 10px;
+    border-color: black;
+    background-color: darkgreen;
+  }
+  
+  
+  .yell{
+    color:darkgoldenrod
+  }
+  .text-reset{
+    text-decoration: none;
+  }
+  #hei{
+    height:100%;
+  }
+  .tableau{
+    margin-left: 15cm;
+    margin-right: 5cm;
+    border-radius: 15px;
+  }
+  .title{
+    text-align: center;
+  }
+  #vide{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 2.5cm;
+  }
+  #rep{
+    height:300px;
+    width:600px;
+  }
+  .prof{
+    font-style: normal;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(1, 184, 1);
+    margin-left: 14.5cm;
+  }
+  #marg{
+    margin-top: 2cm;
+  }
+ 
